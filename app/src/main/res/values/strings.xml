@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FindMe</string>
+    <string name="app_desc"><![CDATA[Save, Share & track locations easily]]></string>
+    <string name="facebook_app_id">708763209555871</string>
+    <string name="fb_login_protocol_scheme">fb708763209555871</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content">Content Coming Here..</string>
+    <string name="service_not_available">SEVICE_NOT_AVAILABLE</string>
+    <string name="invalid_lat_long_used">INVALID_LAT_LANG</string>
+    <string name="no_address_found">NO_ADDRESS_FOUND</string>
+    <string name="address_text">"%1$s"</string>
+    <string name="loading">loading..</string>
+
+
+</resources>
